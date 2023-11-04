@@ -1,0 +1,21 @@
+@import url(./reset.css);
+
+body {
+    background-color: rgba(216, 212, 212, 0.849);
+}
+
+h1, h3{
+    text-align: center;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: bolder;
+    margin-top: 5%;
+}
+
+h3 {
+    font-size: 1.3rem;
+    margin-top: 0.5%;
+}
