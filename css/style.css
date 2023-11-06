@@ -3,8 +3,8 @@
 body {
     background-color: rgba(216, 212, 212, 0.849);
     font-family: monospace;
-    margin-left: 0.5%;
-    margin-right: 0.5%;
+    margin-left: 0.7%;
+    margin-right: 0.7%;
 }
 
 h1, h3{
@@ -53,6 +53,26 @@ p {
     h1 {
         font-size: 2.3rem;
     }
+
+    h3 {
+        font-size: 1rem;
+}
+
+img {
+    width: 320px;
+    height: 220px;
+}
+
+#section-one, #section-two, #section-three, #section-four {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.portrait {
+    margin-bottom: 7%;
+}
+
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
