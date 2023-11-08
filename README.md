@@ -1,10 +1,10 @@
 # images-gallery
 
-El ejercicio consiste en crear una galería de imágenes que cumpla los siguientes requisitos:
+The exercise consists of creating an image gallery that meets the following requirements:
 
-- Debe contener al menos 8 imágenes.
+- It must contain at least 8 images.
 
-- Debe ser completamente responsive, lo que significa que se adapta de manera óptima a diferentes dispositivos, como teléfonos móviles, tabletas y escritorios. Esto garantiza una experiencia de usuario consistente en todos los tamaños de pantalla.
+- It should be completely responsive, which means it adapts optimally to different devices, such as mobile phones, tablets, and desktops. This ensures a consistent user experience on all screen sizes.
 
 - Stacks: HTML, CSS.
 
